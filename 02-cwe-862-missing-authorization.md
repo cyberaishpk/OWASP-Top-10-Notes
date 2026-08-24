@@ -7,7 +7,7 @@ Where it sits in the hierarchy
 Parent: CWE-285 (Improper Authorization), which sits under CWE-284 (Improper Access Control — the pillar)
 Children: CWE-425 (Direct Request/Forced Browsing), CWE-638 (Not Using Complete Mediation), CWE-939 (Improper Authorization in Handler for Custom URL Scheme)
 
-CWE-862 is an Abstraction: Class — more specific than the CWE-284 pillar, but still general enough that MITRE says it's "ALLOWED-WITH-REVIEW" for mapping real vulnerabilities (unlike 284, which is discouraged entirely). This means you can cite CWE-862 in a report, but you should double-check whether a more specific child (like 425) fits even better.
+CWE-862 is an Abstraction: Class — more specific than the CWE-284 pillar, but still general enough that MITRE says it's "ALLOWED-WITH-REVIEW" for mapping real vulnerabilities (unlike 284, which is discouraged entirely). This means you can cite CWE-862 in a report, but you should double-check whether a more specific child (like 425) fits even better. 
 
 The core distinction: Missing vs. Incorrect
 
